@@ -25,8 +25,7 @@ I'm a Software Test Analyst, and this is my automation project repository.
 ![image](https://user-images.githubusercontent.com/108882560/177829081-263b775a-1326-4355-a8c7-cdd4a297cfd3.png)
 ![image](https://user-images.githubusercontent.com/108882560/177829150-7f0034c7-701f-46d2-834c-18fb70799fce.png)
 
-
-
+To learn more about me, visit my Linkedin profile: https://www.linkedin.com/in/viniciusalvesmartins/
 
 <!---
 QA-Vinicius/QA-Vinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
