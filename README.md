@@ -17,6 +17,7 @@ I'm a Software Test Analyst, and this is my automation project repository.
 ![image](https://user-images.githubusercontent.com/108882560/177828694-02d739c8-f649-4fb8-9734-b9dad2b03c84.png)
 ![image](https://user-images.githubusercontent.com/108882560/177828797-63612075-002c-49f9-85fd-66c1dc491d63.png)
 
+![RESTASSURED](https://img.shields.io/badge/RESTASSURED-green?style=for-the-badge)
 ![image](https://user-images.githubusercontent.com/108882560/177828658-be5ca514-ab19-440f-b8de-05a61a27d035.png)
 ![image](https://user-images.githubusercontent.com/108882560/177828888-532ecfad-60d0-4597-af2e-6a68dac4f9fb.png)
 
