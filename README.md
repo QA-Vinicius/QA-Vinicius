@@ -3,7 +3,7 @@
 I'm a Software Test Analyst, and this is my automation project repository.
 
 - 📊 I currently work at NTTDATA Brasil
-- 📚 I’m currently learning API Test Automation...
+- 📚 I’m currently learning to CTFL Certification and AWS Certification...
 
 #### 💡 Hard Skills:
 - Planning and implementation of test scenarios;
