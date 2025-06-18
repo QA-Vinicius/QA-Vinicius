@@ -2,6 +2,7 @@
 
 I'm a Software Test Analyst, and this is my automation project repository.
 
+- 🎓 I hold a degree in Information Systems from the Federal University of Uberlândia (UFU)
 - 📊 I currently work at NTTDATA Brasil
 - 📚 I’m currently learning to CTFL Certification and AWS Certification...
 
@@ -13,8 +14,8 @@ I'm a Software Test Analyst, and this is my automation project repository.
 - Knowledge in Agile Concept Tests (TDD, ATDD, BDD);
 - Creation, execution, and automation of SQL scripts;
 - Data extraction in Oracle SQL and MySQL;
-- Code versioning with Git and Github;
-- Continuous integration with Jenkins;
+- Code versioning with Git and GitHub;
+- Continuous integration with Jenkins and GitLab CI;
 
 ### 🚀👩‍💻 Technologies & Tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -36,14 +37,16 @@ I'm a Software Test Analyst, and this is my automation project repository.
 ![image](https://img.shields.io/badge/DBeaver-382923.svg?style=for-the-badge&logo=DBeaver&logoColor=white)
 ![image](https://img.shields.io/badge/Oracle%20SQL-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![image](https://user-images.githubusercontent.com/108882560/177829150-7f0034c7-701f-46d2-834c-18fb70799fce.png)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![image](https://img.shields.io/badge/HP%20ALM-0096D6.svg?style=for-the-badge&logo=HP&logoColor=white)
+![OCTANE](https://img.shields.io/badge/OCTANE-blue?style=for-the-badge)
 
-To learn more about me, visit my Linkedin profile: https://www.linkedin.com/in/viniciusalvesmartins/
+🔗 To learn more about me, visit my Linkedin profile: [My LinkedIn](https://www.linkedin.com/in/viniciusalvesmartins/)
 
 <!---
 QA-Vinicius/QA-Vinicius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
